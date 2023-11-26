@@ -1,0 +1,49 @@
+Project 2: Website Proposal
+CMST 386 | Josue B. Martinez
+
+
+
+1.	Client and Topic (25-word minimum):
+Which of the following describes the website you will be creating? website (you must seek instructor approval).
+o	a website for a travel agency business.
+It will be creating a website for booking cars, flights, trains, boats, and hotels. Similarly, to something like Expedia or Booking.com but my website will consist of different features and will be a competitor to these companies. 
+2.	Development Process and Engagement (50-word minimum):
+The website will be made for myself. The research I will conduct will be the existing websites for travel booking websites, find the flaws and friction points and improve those areas on my new and improved website. I will be looking at many different travel websites and include a collective number of features from each website to create a new and improved website.
+3.	Testing (50-word minimum):
+In order to ensure that my website is created properly and free of errors prior to the launch date, I will utilize the html and CSS validation to validate proper semantics and error free. I will also ensure to submit with proper timing to receive feedback from the professor and fix any error and to meet the assignment requirements. Although HTML/CSS validation is not part of the testing it is important to me for learning purposes. Part of my testing will include opening the URL in different browsers such as google chrome and safari. I will test all of the features included on the website and ensure the proper functionality of each section, such as the navigation bar, links, the interactivity of adjusting to the window size. 
+4.	Description (100-word minimum):
+The business will be a travel agency that will focus on online booking for all types of travel such as planes, hotel stays, cruises, and car rental. The business will provide package deals, the user will apply the preferred dates and the website will provide a suggested package deal. The user will not need to book each method of travel, stays, or transportation the user will select its preferred destination and the rest of the accommodations will be arranged. The purpose of the website to implement an easy, simple method travel booking. Travelers will no longer have to deal with the stress of booking each section separately. The intended target audience will be the individual that enjoy travelling and booking stress free. The business can be applied to a younger audience looking to travel for a less price than the competitors and for those who are not very organized to manage an itinerary. The impact of target audience will influence me to design the webpage very user friendly. The key point of the website is enjoying a stress-free booking and travel. Without that key aspect the business will fail since it is proclaiming a “stress-free” booking. The unique content I will include will the preferred travel locations, it will begin with the opening index home page of very specific locations such as – Mountain locations, (Colorado, or Swiss Alps) Beach locations, big cities (NYC, or Miami), and a cruise selection take the user to the following page in connection with their preferred destination. The website will be updated seasonally. Every winter, fall, summer, and spring there will special deals for each season for everyone to enjoy year around deals.
+5.	Growth and Maintenance (50-word minimum):
+The website will continue to grow and evolve based off how many users complete a booking, after each booking there will be a section to leave a review. I will divide the maintenance updates by the quarter and improve based off the reviews. To make it easier to adjust and maintain I will keep my work organized and sectioned off by id’s or classes. It will be corrected or adjusted every 3 months.
+6.	Organization (100-word minimum):
+o	How will the website content be organized?
+o	What sub-topics will the website include?
+o	What pages will be included in the website?
+o	Describe the page layout and navigation you are considering. 
+	Include wireframes of the home page and one interior page. Here are two online tools that make help: https://www.justinmind.com/free-wireframing-tool -or-
+http://framebox.org/.
+	Develop a storyboard, website map, diagram or flow chart to show the webpages of Project 4, how the pages are related to each other and the flow of the site.
+	Not sure where to start? Students can use PowerPoint or any other application at their disposal. Here are three online tools that make it easy: http://www.diagram.ly/-or- http://www.gliffy.com – or – http://www.draw.io.
+The organization and structure of the website will be begin with the index.html home page with log in  the four package themed (beach.html, mountain.html, city.html, and cruise.html)   each package themed page will include destinations options to add to cart  finally payment page. 
+7.	Security (50-word minimum):
+There will be a login portion that will log them into their account and allow them to save and book there travel accommodations. The login will have a sign in form code and the secure payment system will have a secure payment code. To allow users to login and have confidence in knowing their information will safe and secure. 
+8.	Web Hosting (100-word minimum):Please note that you aren't required to actually register a domain name or sign up for a hosting plan
+If I were to select a web host it would be based off reviews and security of the system. As reviews for real users, I will have insight to know whether the website is reliable or not. The web host must be able to support the websites login/register and the able to browser and without it crashing. Pricing of the host is a major aspect as well; some hosts are overpriced and will charge developers an outrageous amount per month while the competitors that are cheaper work just as well and meet the same amount of security. The special technology required will be a shopping cart. As user select their trips it will be in their shopping cart but will function more as a confirmation itinerary before they book their trip. I will primarily use HTML and CSS and try to implement some JavaScript. An appropriate domain name would be www.worldunited.com as the name of the business will be World United - Travel Agency.
+9.	Marketing (50-word minimum):
+The website will be marketed through Google Ads. Previous I was an amazon seller and the way I marketed my amazon products was through Google Ads. It utilizes web user’s cookies as a method to understand which users are interested in traveling, therefore will be on places such as Facebook, Instagram, and other social media platforms. As well if users are on Google search for trips, our “World United” ad will be populated in their sidebars. I will implement the SEO meta description and key words and once my website has been “crawled” it will populate when a user searches “trips, cheap travel deals, travel sales” and other key terms pertaining to my website.
+10.	Project Reflection (MS Word document or paste the information in the textbox of the Assignment folder on submission) (minimum 250 words)
+o	Respond to the following:
+	What applications did you use to complete the wireframes? Did you find the application simple to use or find an alternative to what was suggested?
+	Explain what you learned when building the flowchart diagram in the proposal?
+	Did you use one of the listed applications to diagram the site? If not, what did you use and why?
+	What challenges did you face in developing the main navigation for the final project? How did you resolve them?
+	If you did not face any challenges or issues in completing the project, what do you think are some issues or challenges someone new to creating web pages might face completing a project like this?
+11.	Additional Instructions:
+o	Link Project 2 document to Project 2 on the index.html page in the cmst386 folder.
+o	Upload project2 folder and all pages/files to the Aloft Web Server.
+o	Ready to upload? Check your work online after uploading the project to ensure the project link works! If you cannot see the project, when clicking on the link you supplied, neither can I and I won't be able to grade it.
+12.	Once you have completed the exercise you must submit the URL to the Project Folder. Your submission must include the full URL of the project. Make sure it is working as well as all images included. This is a best practice part of website testing. 
+13.	Project submission requires you upload a file.
+o	Paste the URL in the comments section.
+o	Send the entire project, make a zipped file maintaining the proper folder hierarchy and submit it. 
+o	If any of the above materials are missing from your submission, your project will be considered incomplete and will result in point deductions. Please view your work on the web prior to submitting.
