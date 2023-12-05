@@ -7,6 +7,21 @@
     <meta name="preprocessing" content="noindex">
     <meta name="description" content="CMST 386 client-side vs server-side">
     <link rel="stylesheet" href="style.css">
+    <script>
+    let mybutton = document.getElementById("myBtn");
+ 
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    </script>
 </head>
 <body>
 <header>
@@ -41,32 +56,18 @@
        <ul>
             <li>Mixins: ("Mixing In") is mixing a rule-set into another rule-set. When using something like a class or id, and you have another class styling that you want to have
                 the same styling as the previous class you simply need to drop the class name into the next one as so: 
-            </li><br>
-            <li>Variables: Allows you to control each individual elements styling.</li><br>
+            </li>
+            <li>Variables: Allows you to control each individual elements styling.</li>
             <li>Functions: With LESS developers are able to utilize functions that allow different results depending on the functions conditions. Functions such as,
                 if, boolean, strings, math, and multiple of different ones. What the main for purpose of all these functions is to change the initial content(s) (input) into new 
-                content based off a varied of conditions.</li><br>
+                content based off a varied of conditions.</li>
             <li>Operators: Are your mathmatical outouts, capable of operating with addition, subtraction, multiplication, and division. All while being capable of accounting for conversions
-                and order of operations. Can operate on any number, color, or variable.</li><br>
+                and order of operations. Can operate on any number, color, or variable.</li>
             <li>Nested Variables: Is the ability of adding styling to a single element with multiple classes to add different styling.</li>
        </ul>
 </section>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-</body>
 <footer>Copyright Josue B. Martinez</footer>
+</body>
 </html>
-<script>
-    let mybutton = document.getElementById("myBtn");
- 
-    function scrollFunction() {
-      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        mybutton.style.display = "block";
-      } else {
-        mybutton.style.display = "none";
-      }
-    }
-    function topFunction() {
-      document.body.scrollTop = 0;
-      document.documentElement.scrollTop = 0;
-    }
-</script>
+
