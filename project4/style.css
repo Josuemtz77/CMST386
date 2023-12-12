@@ -1,0 +1,210 @@
+body {
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+}
+h1 {
+  font-size: 45px;
+}
+nav {
+  width: 90%;
+}
+nav ul {
+  width: 100%;
+}
+.nav {
+    overflow: visible;
+}
+.nav a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration:none;
+    font-size: 25px;
+    box-shadow: 2px;
+}
+.nav a:hover {
+    border-bottom: 3px solid rgb(205, 205, 205);
+}
+  .dropbtn {
+    background-color: transparent;
+    padding: 10px 10px;
+    font-size: 25px;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .dropdown {
+    float: right;
+    position: relative;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    min-width:fit-content;
+    z-index: 1001;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+    text-align: left;
+  }
+  .dropdown-content a:hover {
+      background-color: #c8c8c8;
+  }
+  .dropdown:hover .dropdown-content {
+      display: block;
+  }
+  .dropdown:hover .dropbtn {
+      background-color: transparent;
+  }
+  .slogan {
+    position: relative;
+    text-align: center;
+    z-index: 10;
+  }
+  .slogan img {
+    z-index: 11;
+  }
+  .top-left {
+    position: absolute;
+    top: 15px;
+    left: 100px;
+    font-size: 50px;
+    font-family: 'Sansita Swashed';
+    text-align: left;
+    color: #5C4033;
+  }
+.booknow {
+  position: absolute;
+  bottom: 400px;
+  left: 575px;
+  background-color: rgb(70, 63, 63);
+  display: inline-block;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  cursor: pointer;
+  margin: 5px;
+}
+.column1 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  padding: 30px;
+}  
+.item1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.column1 img {
+  border-radius: 20px;
+  opacity: 1;
+	-webkit-transition: .1s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.column1 img:hover {
+  opacity: .5;
+}
+footer {
+  margin-top: 500px;
+  padding: 5px;
+  background-color: #f6f6f6;
+  box-shadow: #c8c8c8 2px;
+  font-size: 20px;
+  text-align: right;
+}
+
+/* Reviews page */
+.reviewsheader h1 {
+  position: absolute;
+  top: 150px;
+  left: 650px;
+  color: white;
+  font-family: 'Sansita Swashed';
+  font-size: 100px;
+}
+.reviewssection img {
+  padding-bottom: 15px;
+}
+.customerreviews {
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 20px;
+}
+.reviewssection h2 {
+  padding-top: 30px;;
+}
+
+/* About us */
+.aboutus {
+  position: absolute;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  z-index: auto;
+}
+.aboutus .left-center {
+  position: absolute;
+  color: white;
+  font-size: x-large;
+  top: 25px;
+  left: 100px;
+  width: 450px;
+  height: 300px;
+  padding: 15px;
+  margin: 45px 45px 45px 45px;
+  z-index: auto;
+}
+.explore {
+  margin-top: 30px;
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+  margin-left: 50px;
+}
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.explore1 {
+  margin-top: 30px;
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+  margin-left: 150px;
+}
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+.footer {
+  margin-top: 1500px;
+}
+/*All 4 destinations*/
+.trip {
+  margin-top: 30px;
+  float: left;
+  width: 50%;
+  padding: 15px;
+  margin-left: 15px;
+}
+.details::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
